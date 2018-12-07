@@ -1,0 +1,28 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 14, filename=badopcode
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=6
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=1; opcode=66; src=(147.126.2.91/60116); time=9
+         packet does not seem to be a data packet
+ERROR: Invalid opcode
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3481
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3483
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3486
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3488
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3490
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3492
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3494
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3496
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3498
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60116); time=3500
+         DATA packet blocknum = 11

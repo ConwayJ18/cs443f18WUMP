@@ -1,0 +1,25 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 14, filename=losedata2
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=48
+         DATA packet blocknum = 1
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3588
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3590
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3592
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3594
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3596
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3598
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3600
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3602
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3604
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60123); time=3606
+         DATA packet blocknum = 11

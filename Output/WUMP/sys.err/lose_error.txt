@@ -1,0 +1,33 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 9, filename=lose
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=9
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=11
+         DATA packet blocknum = 2
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=3544
+         DATA packet blocknum = 3
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=7190
+         DATA packet blocknum = 4
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=10687
+         DATA packet blocknum = 5
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=14102
+         DATA packet blocknum = 6
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=17510
+         DATA packet blocknum = 7
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=20916
+         DATA packet blocknum = 8
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=24432
+         DATA packet blocknum = 9
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=28016
+         DATA packet blocknum = 10
+hard timeout
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60120); time=31599
+         DATA packet blocknum = 11

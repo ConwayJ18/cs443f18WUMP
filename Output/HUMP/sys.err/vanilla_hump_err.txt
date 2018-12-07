@@ -1,0 +1,24 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 12, filename=vanilla
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=40
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=42
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=45
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=46
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=49
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=51
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=53
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=55
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=56
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=58
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60255); time=60
+         DATA packet blocknum = 11

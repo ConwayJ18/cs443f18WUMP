@@ -1,0 +1,7 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 11, filename=nofile
+hard timeout
+rec'd packet: len=520; proto=2; opcode=4; src=(147.126.2.91/4715); time=3013
+         packet does not seem to be a data packet
+Error packet rec'd; code 4
+Nonexistent file.

@@ -1,0 +1,30 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 10, filename=delay
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=5016
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=5018
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=6240
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=7161
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=2; opcode=5; src=(147.126.2.91/4715); time=8082
+         packet does not seem to be a data packet
+ERROR: Invalid host port
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=8084
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=2; opcode=4; src=(147.126.2.91/4715); time=8085
+         packet does not seem to be a data packet
+Error packet rec'd; code 3
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=9312
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=10019
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=11258
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=12178
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=13020
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60235); time=14182
+         DATA packet blocknum = 11

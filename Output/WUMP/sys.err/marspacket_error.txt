@@ -1,0 +1,27 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 15, filename=marspacket
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=8
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/40710); time=10
+         DATA packet blocknum = 2
+ERROR: Invalid host port
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=11
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=13
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=16
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=18
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=20
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=22
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=25
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=27
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=30
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=1; opcode=2; src=(147.126.2.91/60124); time=31
+         DATA packet blocknum = 11

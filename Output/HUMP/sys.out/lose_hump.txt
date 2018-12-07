@@ -1,0 +1,88 @@
+An Assessment of the Programming Language Pascal
+by Niklaus Wirth, developer of Pascal
+
+1. What is reliable software?
+Reliable is the attribute for a person, an organization, or a mechanism
+that you can trust, that you can depend on, that is worthy of your
+confidence.  For example, a reliable clock is one that indicates
+accurate time even during an earthquake, a reliable railway system is
+one where trains run punctually even during a snowstorm, a reliable
+bridge is a bridge that doesn't crack even under heavy load, and a
+reliable transistor is one that operates for years, possibly under
+extreme temperature and radiation.
+
+The common enemy of reliability in these examples are adverse
+circumstances and influences that may cause a deterioration of the
+physical properties of material.  The accumulation of these influences
+is called aging.  Reliability is achieved by dimensioning the
+mechanisms properly, taking such adverse conditions into
+consideration.  In a railway system the schedule is arranged such that
+it leaves room for catching up on lost time, and an ample supply of
+spare engines is kept on the alert for emergencies.  A bridge is built
+stronger than actually needed most of the time -- and a transistor is
+equipped with cooling devices and radiation shields.
+
+What does all this have to do with software?  Well, we all have
+experienced failures of compter systems; and we all would like them to
+be reliable too.  When a computer fails, the first question among its
+intimates is usually: is the hardware or the software the culprit?
+Most customers of a computation center show signs of relief when the
+latter is announced, for the disruption of service is then quickly
+ended by a so-called deadstart, and life goes on as if (almost) nothing
+had occurred.  Indeed there had been neither an earthquake, nor a
+snowstorm, nor a weighty load, nor heat or radiation.  Instead, merely
+unpredictable circumstances had led to a state of computation for which
+the logical structure of the program had not been designed, which the
+system's designers didn't anticipate.  And when pressing the deadstart
+button, the computer operator is reasonably confident that these
+circumstances won't reoccur too soon.
+
+What must we conclude? We understand by the term software the
+collection of programs that deterministically prescribe a system's
+detailed behaviour and transtions of state.  These programs are
+constants and are independent of any "adverse conditions" of an
+environment.  Hence, software cannot fail because of unpredictable
+happenings and age, but only due to defects in its logical design. This
+leads us to a replacement of the attribute "reliable" by "correct."
+
+We may be accused of nitpicking with words.  To this I can only reply
+that the choice of words often reveals a speaker's attitude more
+profoundly than is clear to him.  The attitude through which we content
+ourselves at producing "reliable" software instead of correct software,
+bears the danger that we may also consider various degrees of
+reliability.  Software may then be termed reliable and "more reliable";
+we may also call it correct, but certainly not "more correct."
+
+The difference in these words is also manifested in the techniques to
+be employed in producing reliability in software versus in clocks,
+bridges, and transistors.  In most technical phenomena, reliability is
+achieved by overdimensioning the components, by using high quality
+material, or by supplying standby equipment that automatically goes
+into action when a failure occurs.  In programs, merely repeating a
+logical test ten times instead of performing it once does not help, if
+the logical structure is correct and the underlying hardware is
+reliable.  In fact, the degree to which a program is unreliable is
+exactly the probability with which its incorrect parts are executed.
+But this measure is not a property of the program itself.
+
+Reconciling ourselves with the word correct in place of reliable has
+the advantage that we more readily identify the causes of failures of
+our products to meet their goal.  They are not to be sought in
+external, unforeseeable, adverse circumstances, but solely in our own
+inadequate minds, and in our failure to communicate, if several people
+participate in a program's design.  The advantage of this recognition
+is that we know where to concentrate our efforts; its unpleasant part
+is the fact that it will be a neverending crusade, because committing
+mistakes is a truly human characteristic.
+
+The most sensible targets in our drive at producing correct software
+are evidently the programmers themselves.  Nothing whatsoever can
+replace a sound, systematic training in precise reasoning.  Other
+sensible targets are the tools that we employ to assist our reasoning.
+These include primarily the formal languages in which we express our
+thoughts and abstractions, and by which we transmit them to other
+people.  We have directed our efforts to improve our programming tools
+since more than a decade, and I will therefore devote the main part of
+this paper to a report and an evaluation of the latest product, the
+language Pascal, in the light of the topic "reliable software."
+

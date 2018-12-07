@@ -1,0 +1,93 @@
+Looking up address of ulam.cs.luc.edu... got it!
+req size = 10, filename=spray
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=8
+         DATA packet blocknum = 1
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=10
+         DATA packet blocknum = 2
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=1061
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=2290
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=2904
+         DATA packet blocknum = 3
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=4132
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=5156
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=5771
+         DATA packet blocknum = 4
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=6772
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=7922
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=8535
+         DATA packet blocknum = 5
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=8538
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=9765
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=10536
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=11710
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=12113
+         DATA packet blocknum = 6
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=13247
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=14167
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=14781
+         DATA packet blocknum = 7
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=15782
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=16780
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=17780
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=18182
+         DATA packet blocknum = 8
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=19184
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=20181
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=21180
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=21582
+         DATA packet blocknum = 9
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=22583
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=23583
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=23985
+         DATA packet blocknum = 10
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=25021
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=25983
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=27274
+         DATA packet blocknum = 1
+ERROR: Invalid block number
+rec'd packet: len=520; proto=2; opcode=2; src=(147.126.2.91/60254); time=27889
+         DATA packet blocknum = 11
